@@ -1,5 +1,9 @@
 # --- Basic options --- #
-
+---
+.......
+bigimg:
+   - "https://github.com/SharvareeSinkar/SharvareeSinkar.github.io/blob/master/assets/img/nature.jpeg" : "And so the adventure begins"
+---
 # Name of website
 title: Sharvaree Sinkar
 
