@@ -1,9 +1,5 @@
 # --- Basic options --- #
----
-.......
-bigimg:
-   - "https://github.com/SharvareeSinkar/SharvareeSinkar.github.io/blob/master/assets/img/nature.jpeg" : "And so the adventure begins"
----
+
 # Name of website
 title: Sharvaree Sinkar
 
@@ -96,7 +92,7 @@ navbar-text-col: "#FFA500"
 navbar-border-col: "#FFA500"
 page-col: "#FFFFFF"
 link-col: "#FFA500"
-hover-col: "#0085A1"
+hover-col: "#FFA500"
 footer-col: "#000000"
 footer-text-col: "#FFA500"
 footer-link-col: "#404040"
