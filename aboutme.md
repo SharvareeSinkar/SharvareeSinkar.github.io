@@ -4,6 +4,8 @@ title: About me
 subtitle: Want to know me?
 ---
 
+![me](https://github.com/SharvareeSinkar/SharvareeSinkar.github.io/blob/master/assets/img/aboutme.jpg)
+
 ### Hey Guys and Girls out there!
 I am Sharvaree Sinkar,2nd year undergrad student from Electrical Dual department from IIT-Bombay.There are innumerous things that interests me.I like to play Keyboard,paint,read novels,listen songs and watch webseries.I currently started reading ‘Secret of Nagas’ from Shiva Triology and am binge watching Big Bang Theory web-series xD.
 
