@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Want to know me?
+cover-img: /assets/img/nature.jpeg 
 ---
 
 ### Hey Guys and Girls out there!
