@@ -1,28 +1,33 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Sharvaree Sinkar
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Sharvaree Sinkar
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Home: "Home"
+  Blogs:
+    - Basics_of_ML_and_DeepLearning: "Basics_of_ML_and_DeepLearning"
+    - Digital Signal Processing: "Digital_Signal_Processing"
+    - ERC TechThursdays: "ERC_TechThursdays"
+  Projects:
+    - SoC_2020: "SoC_2020"
+    - SoS_2020: "SoS_2020"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/me.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -38,10 +43,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "sharvareesinkar21@gmail.com"
+  facebook: "https://www.facebook.com/profile.php?id=100006143535083"
+  github: "https://github.com/SharvareeSinkar"
+  #twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -70,7 +75,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "sharvareesinkar.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -82,14 +87,14 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-border-col: "#EAEAEA"
+navbar-col: "#000000"
+navbar-text-col: "#FFA500"
+navbar-border-col: "#FFA500"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
+link-col: "#FFA500"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-col: "#000000"
+footer-text-col: "#FFA500"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
