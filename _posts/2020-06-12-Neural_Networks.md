@@ -2,8 +2,8 @@
 layout: post
 title: Neural Networks
 subtitle: Basics of Machine Learning and Deep Learning
-cover-img: /assets/img/ml.jpg
-tags: [ML, DeepLearning]
+cover-img: /assets/img/ml.jpeg
+tags: [DeepLearning]
 ---
 
 To understand Deep Learning,first we have to understand what machine learning is.So,in machine learning we train our model by giving some training datasets so that the model can learn from it and whenever some new testdata is tested ,it can give the correct results.
