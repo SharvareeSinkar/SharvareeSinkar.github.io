@@ -8,11 +8,6 @@ tags: [test]
 comments: true
 ---
 
-
-![DSP](https://github.com/SharvareeSinkar/SharvareeSinkar.github.io/blob/master/assets/img/dsp.jpeg)
-
-It can also be centered!
-
 ![Crepe](https://github.com/SharvareeSinkar/SharvareeSinkar.github.io/blob/master/assets/img/dsp.jpeg){: .mx-auto.d-block :}
 
 #### Digital-Signal-Processing
