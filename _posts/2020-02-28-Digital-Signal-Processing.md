@@ -2,7 +2,7 @@
 layout: post
 title: DSP
 subtitle: Communication and Signal Processing
-cover-img: "/assets/img/dsp.jpeg"
+cover-img: /assets/img/dsp.jpeg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
