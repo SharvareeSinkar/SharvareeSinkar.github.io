@@ -13,7 +13,8 @@ What else do you need?
 
 ### Background
 
-I belong to Nashik,Maharashtra.My school was M.S.Kothari Academy and I went to Spectrum Coaching classes in my 11th-12th Grade. I was 1st in 10th and secured descent rank in JEE.
+I belong to Nashik,Maharashtra.My school was M.S.Kothari Academy and I went to Spectrum Coaching classes in my 11th-12th Grade. 
+My Father Rajendra Sinkar has Medical Distributionship and my mother is an artist.My Sister Saanvi is in std. 1st.
 
 ### Contact
 
