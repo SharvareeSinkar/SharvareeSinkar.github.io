@@ -17,9 +17,15 @@ navbar-links:
     - Basics_of_ML_and_DeepLearning: "Basics_of_ML_and_DeepLearning"
     - Digital Signal Processing: "Digital_Signal_Processing"
     - ERC TechThursdays: "ERC_TechThursdays"
+    - Convolutional Neural Networks: "Convolutional_Neural_Network"
+    - Speech Processing: "Speech-Recognition-and-Processing"
+    - 5 Months of Quarantine: "Quarantine_Vacation_Stuff 2020"
   Projects:
     - SoC_2020: "SoC_2020"
     - SoS_2020: "SoS_2020"
+    - Tinkering Bootcamp: "Tinkering Bootcamp 2020"
+    - Machine Learning Bootcamp: "Machine_Learning 2020"
+    - Consulting Bootcamp: "Consulting101"
   About Me: "aboutme"
   #Author's home: "https://deanattali.com"
 
