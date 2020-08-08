@@ -11,21 +11,29 @@ Meanwhile, a lot of practical aspects of ML were introduced along with the assig
 
 Week 1:
 Python basics, Numpy, Matplotlib, Brushing of Linear Algebra, Calculus
+
 Week 2 :
 Linear Regression, Logistic Regression
 Pragmatics - Regularisation, Overfitting, Data Cleaning
+
 Week 3 :
 Mid-term Eval - in week 3 - Linear Regression on Titanic or some other dataset.
 Decision Trees, Random Forests, PCA, kNN
 Pragmatics - Data Distribution
+
 Week 4:
 Feedforward Neural Nets, Forward Propagation, Backward Propagation, Logic Gates using NN’s
 Pragmatics - Dropouts, Normalisation of Inputs, Initialization
+
 Week 5 :
 Tensorflow, Basic introduction to CNNs
 Pragmatics - Optimizers
+
 Week 6 :
 Final Project using either of the frameworks.
+
 Week 7 -
 Final Evaluation - Build an end to end model and train it on a given dataset. Finally submit the accuracy of the model on the Test dataset. 
-These will be used for evaluation. Then try and find more optimisation techniques for improving the accuracy. Special Mention to those with highest accuracy. 
+These will be used for evaluation. Then try and find more optimisation techniques for improving the accuracy. Special Mention to those with highest accuracy.
+
+The complete Repo of Machine Learning Bootcamp's learning can be found [here](https://github.com/wncc/learners-space/tree/master/Machine%20Learning)
