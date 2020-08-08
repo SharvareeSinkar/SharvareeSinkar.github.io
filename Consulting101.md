@@ -16,5 +16,6 @@ The flow of Bootcamp was as follows:
 - Week 4: Growth Strategy, Mergers and Acquisitions, Price and Pricing Strategy
 - Week 5: Art of Storytelling, Presentation101, and Basics of Excel
 
+The complete folder of the material covered can be found [here](https://drive.google.com/drive/u/0/folders/1F-KZRY0fccOJraEc9Y5LQlVlYr-uKpSR)
 Overall,It was an amazing experience and I got a brief introduction about the non-core sector!
    
